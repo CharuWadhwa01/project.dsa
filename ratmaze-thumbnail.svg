@@ -1,0 +1,23 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" rx="22" fill="#fffbe6" stroke="#d6b300" stroke-width="4"/>
+  <!-- Maze paths -->
+  <rect x="40" y="40" width="220" height="120" rx="10" fill="#f6e58d" stroke="#b1a96a" stroke-width="3"/>
+  <rect x="60" y="60" width="40" height="15" fill="#fffbe6" />
+  <rect x="100" y="60" width="80" height="15" fill="#b1a96a" />
+  <rect x="180" y="60" width="40" height="15" fill="#fffbe6" />
+  <rect x="60" y="75" width="15" height="60" fill="#b1a96a" />
+  <rect x="85" y="75" width="135" height="15" fill="#fffbe6" />
+  <rect x="205" y="90" width="15" height="30" fill="#b1a96a" />
+  <rect x="145" y="120" width="75" height="15" fill="#fffbe6" />
+  <!-- Rat (simplified) -->
+  <ellipse cx="65" cy="145" rx="12" ry="7" fill="#888" />
+  <ellipse cx="76" cy="145" rx="4" ry="3" fill="#888" />
+  <circle cx="79" cy="144" r="1.5" fill="#333" />
+  <ellipse cx="59" cy="144" rx="2" ry="1" fill="#b5b5b5" />
+  <!-- Rat tail -->
+  <path d="M56,145 Q50,152 60,153" stroke="#b87333" stroke-width="2" fill="none"/>
+  <!-- Title -->
+  <text x="150" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#b1a96a" font-weight="bold">
+    RatMaze
+  </text>
+</svg>
