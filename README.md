@@ -8,5 +8,3 @@ This project demonstrates the classic Rat in a Maze problem solved using backtra
 - Prints one valid path (can be extended to find all paths).
 - Clear console output showing the final solution path.
 - Written in C++.
-
- ![RatMaze Thumbnail](ratmaze-thumbnail.svg)
